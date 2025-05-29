@@ -1,5 +1,5 @@
-# 5-Day-Gen-AI-Intensive-Course-with-Google-Learn-Guide
-Kaggle-Google gen AI course
+**# 5-Day-Gen-AI-Intensive-Course-with-Google-Learn-Guide**
+**Kaggle-Google gen AI course**
 
 Day 1: Foundational Models & Prompt Engineering - Explore the evolution of Large Language Models (LLMs), from transformers to techniques like fine-tuning, inference acceleration, and reasoning models. Get trained with the art of prompt engineering for optimal LLM interaction.
 
